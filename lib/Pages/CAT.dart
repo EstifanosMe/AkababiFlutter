@@ -63,7 +63,7 @@ class _CATState extends State<CAT> {
                   onTap: () {},
                   child: Center(
                     child: Text(
-                      'Social',
+                      'Social' ,
                       style: TextStyle(fontSize: 20, color: Colors.white,),
                     ),
                   ),
